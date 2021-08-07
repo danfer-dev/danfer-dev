@@ -3,7 +3,7 @@
 #### *Bem-vindo (a) ao meu perfil! Estou cursando Engenharia de Software pela Universidade Federal do Ceará. Ainda sou iniciante no mundo da tecnologia, mas meu objetivo é mergulhar fundo na área para evoluir cada vez mais, tanto profissionalmente, quanto pessoalmente.*
 ---
 ### Coisas que gosto de fazer no tempo livre
-   * #### *Assisitir filmes antigos;*
+   * #### *Assistir filmes antigos;*
    * #### *Ler um bom livro;*
    * #### *Ouvir rock;*
    * #### *Pedalar.*
