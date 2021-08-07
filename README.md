@@ -1,7 +1,7 @@
 # Hello world, I'm Daniel!   <img src="https://i.imgur.com/u8HivgI.gif" width="25px">
 
 #### *Bem-vindo (a) ao meu perfil!* :smile:
-#### *Estou cursando Engenharia de Software pela Universidade Federal do Ceará. Ainda sou iniciante no mundo da tecnologia, mas meu objetivo é mergulhar fundo na área para evoluir cada vez mais, tanto profissionalmente, quanto pessoalmente.*
+#### *Estou cursando Engenharia de Software pela Universidade Federal do Ceará. Ainda sou iniciante no mundo da tecnologia, mas meu objetivo é mergulhar a fundo na área para que eu possa evoluir cada vez mais, tanto profissionalmente, quanto pessoalmente.*
 ---
 ### Coisas que gosto de fazer no tempo livre
    * #### *Assistir filmes antigos;*
