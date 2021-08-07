@@ -1,7 +1,7 @@
-## Hello world, I'm Daniel!   <img src="https://i.imgur.com/u8HivgI.gif" width="25px">
----
-#### *Bem-vindo (a) ao meu perfil! Estou cursando de Engenharia de Software pela Universidade Federal do Ceará. Ainda sou iniciante no mundo da tecnologia, mas meu objetivo é mergulhar fundo na área, para evoluir cada vez mais, tanto profissionalmente, quanto pessoalmente.*
+# Hello world, I'm Daniel!   <img src="https://i.imgur.com/u8HivgI.gif" width="25px">
 
+#### *Bem-vindo (a) ao meu perfil! Estou cursando de Engenharia de Software pela Universidade Federal do Ceará. Ainda sou iniciante no mundo da tecnologia, mas meu objetivo é mergulhar fundo na área, para evoluir cada vez mais, tanto profissionalmente, quanto pessoalmente.*
+---
 ### Coisas que gosto de fazer no tempo livre
    * #### *Assisitir filmes antigos;*
    * #### *Ler um bom livro;*
@@ -10,7 +10,9 @@
    
 ### Tecnologias que utilizo e estudo
 
- ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+ ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
+ ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+ ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
  
  ### Tecnologias que pretendo estudar
  
@@ -20,5 +22,6 @@
  
   ### Onde me encontrar
   
-  [![Instagram](https://img.shields.io/static/v1?label=&message=Instagram&color=E41E52&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dan.dfs101)
-[![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-fer-dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dan.dfs101)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/daniel-fer-dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.dfs.es@gmail.com)
