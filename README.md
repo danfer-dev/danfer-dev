@@ -14,7 +14,7 @@
    
    *Pedalar.*
    
-#### Tecnologias que estou estudo
+#### Tecnologias que estou estudando
 
  ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
  ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
