@@ -6,7 +6,7 @@ Atualmente estou cursando Engenharia de Software pela Universidade Federal do Ce
  
 ---
    
-#### Tecnologias que estudo
+#### Habilidades
 
  ![Badge Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
  ![Badge Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
