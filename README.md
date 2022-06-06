@@ -1,4 +1,4 @@
-# Hello world, I'm Daniel!   <img src="https://i.imgur.com/u8HivgI.gif" width="12px">
+# Hello world, I'm Daniel!   <img src="https://i.imgur.com/u8HivgI.gif" width="10px">
 
  _Bem-vindo (a) ao meu perfil!_ :smile:
  
